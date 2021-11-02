@@ -19,7 +19,7 @@ Openairinterface_lmssdr is released under the AGPLv3 license and uses software f
   sudo ./nr-uesoftmodem  --ue-rxgain 85 --ue-txgain 0 --band 41 -C 2524950000  -r 51 --numerology 1 -s 186  --ue-nb-ant-tx 1 --ue-nb-ant-rx 1  \
        --rf-config-file targets/ARCH/LMSSDR/LimeSDR_above_1p8GHz_1v4.ini   --sa
   
-   2524950000 is CMCC n41 carrier ssb frequency. 34089600 and 3509760000 is  CUCC and CTCC n78 carrier ssb frequency.
+   2524950000 is CMCC n41 carrier ssb frequency. 3408960000 and 3509760000 is  CUCC and CTCC n78 carrier ssb frequency.
    
    r51 with 30.72MSPS and r106 with 61.44MSPS.
    
