@@ -11,7 +11,7 @@ Openairinterface_lmssdr is released under the AGPLv3 license and uses software f
   
   in openairinterface develop branch ./cmake_targets/build_oai  -w LMSSDR --gNB --nrUE
   
-  If you get LMS_EnableCache() error in compilations,  you can comment LMS_EnableCache(). For detail infomation,pls can check this 
+  If you get LMS_EnableCache() error in compilations,  you can comment LMS_EnableCache(). For detail infomation,pls check this 
       https://open-cells.com/index.php/2018/05/04/limesdr-new-set-of-tests/
   
 2 Decode SA air msg
