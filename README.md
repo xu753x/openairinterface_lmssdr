@@ -23,6 +23,7 @@ Openairinterface_lmssdr is released under the AGPLv3 license and uses software f
    
    r51 with 30.72MSPS and r106 with 61.44MSPS.
    
- On ubuntu 20.04 with intel I5 4core CPU receive MIB and Sib1. ue-rxgain can change from 0 to 60 .
+ On ubuntu 20.04 with intel I5 4core CPU and PI4 receive MIB and Sib1. Ue-rxgain can change from 0 to 60 .
  
- Full codoe pls check https://github.com/xu753x/openairinterface_openNR.git.
+ X86 full codoe pls check https://github.com/xu753x/openairinterface_openNR.git with develop branch.
+ Arm full code pls check https://github.com/xu753x/openairinterface_arm_nrue.git with develop_arm_nrue branch.
